@@ -1,0 +1,267 @@
+{
+  "POIs": [
+    {
+      "fit": [
+        -99,
+        -99,
+        -99
+      ],
+      "name": "MH"
+    }
+  ],
+  "method": "default",
+  "params": [
+    {
+      "name": "CMS_hgg_MCZmmgScaleLowR9CentralEBLowPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37911096960185,
+        125.38,
+        125.38088903039814
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.0008890303981359639
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleLowR9OuterEBLowPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37977290785471,
+        125.38,
+        125.38022709214528
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.00022709214528670836
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleLowR9EELowPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37987037365404,
+        125.38,
+        125.38012962634595
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.00012962634595464862
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleLowR9CentralEBHighPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.34832991915195,
+        125.38,
+        125.41167008084804
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.031670080848051854
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleLowR9OuterEBHighPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37294460144075,
+        125.38,
+        125.38705539855924
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.007055398559248519
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleLowR9EEHighPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.3774280729454,
+        125.38,
+        125.38257192705458
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.0025719270545897254
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleHighR9CentralEBLowPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37621192259364,
+        125.38,
+        125.38378807740635
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.003788077406358752
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleHighR9OuterEBLowPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37811190693124,
+        125.38,
+        125.38188809306875
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.0018880930687548102
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleHighR9EELowPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37949169411144,
+        125.38,
+        125.38050830588855
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.0005083058885591621
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleHighR9CentralEBHighPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.31785295807744,
+        125.38,
+        125.44214704192255
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.062147041922561805
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleHighR9OuterEBHighPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.35955421903229,
+        125.38,
+        125.4004457809677
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.02044578096769919
+    },
+    {
+      "name": "CMS_hgg_MCZmmgScaleHighR9EEHighPt_13TeVscaleCorr",
+      "fit": [
+        -1,
+        0,
+        1
+      ],
+      "MH": [
+        125.37618604353979,
+        125.38,
+        125.3838139564602
+      ],
+      "groups": [],
+      "type": "Gaussian",
+      "prefit": [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "impact_MH": 0.003813956460209248
+    }
+  ]
+}

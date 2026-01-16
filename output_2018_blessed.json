@@ -1,0 +1,4408 @@
+{
+  "BothEBUntaggedTag_0": {
+    "mass_res": 1.496848659968311,
+    "n_ev": 376043.0,
+    "ptL0_r9L0_ptS0_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS0_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS0_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS0_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL1_r9L0_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 2397.0,
+          "fraction": 0.0063742540766506045,
+          "mass_RMS": 1.985671701672487,
+          "correction": 0.9928121052780001,
+          "systematic": 0.001037701144417369,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.4103658187254329,
+          "contrib_sub": 0.22033447609953838,
+          "contrib_both_if_matching": 0.6308490254816274
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1080.0,
+          "fraction": 0.002872004339917669,
+          "mass_RMS": 2.680223694915087,
+          "correction": 0.99142946841375,
+          "systematic": 0.0011976383873966157,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.12552114622110666,
+          "contrib_sub": 0.05448926970324884,
+          "contrib_both_if_matching": 0.18005590909572086
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 610.0,
+          "fraction": 0.001622150599397943,
+          "mass_RMS": 2.11947944713962,
+          "correction": 0.990269720104,
+          "systematic": 0.0011459791138104247,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.09166202645751491,
+          "contrib_sub": 0.06390863749531046,
+          "contrib_both_if_matching": 0.15561380370014666
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 195.0,
+          "fraction": 0.0005185563391518014,
+          "mass_RMS": 2.858130265182732,
+          "correction": 0.9888906238849999,
+          "systematic": 0.0013059336565173219,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.01992993119675409,
+          "contrib_sub": 0.011234628513248841,
+          "contrib_both_if_matching": 0.031173939517856828
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 9504.0,
+          "fraction": 0.02527363819127549,
+          "mass_RMS": 1.5126488012860628,
+          "correction": 0.991088993902,
+          "systematic": 0.0008886434881254512,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 2.8038078731312384,
+          "contrib_sub": 0.8867102696360619,
+          "contrib_both_if_matching": 3.6911166918592766
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1335.0,
+          "fraction": 0.0035501164757315634,
+          "mass_RMS": 1.7210114189376975,
+          "correction": 0.9897087567237499,
+          "systematic": 0.0010485569159470742,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.37631279717552285,
+          "contrib_sub": 0.0962199856444553,
+          "contrib_both_if_matching": 0.47261311702739606
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 2989.0,
+          "fraction": 0.007948537937049919,
+          "mass_RMS": 1.7657741845080726,
+          "correction": 0.9886137623180001,
+          "systematic": 0.001188986974362427,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.6471033186228681,
+          "contrib_sub": 0.4923749017288447,
+          "contrib_both_if_matching": 1.139810584327556
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 314.0,
+          "fraction": 0.0008350086691982853,
+          "mass_RMS": 1.9513668529084611,
+          "correction": 0.98723697226375,
+          "systematic": 0.0013489483884976394,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.06884731799314231,
+          "contrib_sub": 0.04235377444637824,
+          "contrib_both_if_matching": 0.11123645366805589
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 23192.0,
+          "fraction": 0.061673633936454246,
+          "mass_RMS": 1.5628137432358264,
+          "correction": 0.9897623374240002,
+          "systematic": 0.0013505000000000322,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 6.409760423996961,
+          "contrib_sub": 6.409760423996961,
+          "contrib_both_if_matching": 12.823847578400068
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 7703.0,
+          "fraction": 0.020484305028135006,
+          "mass_RMS": 2.0333803922292466,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 1.555456466392374,
+          "contrib_sub": 1.2575946279230434,
+          "contrib_both_if_matching": 2.814101061918191
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 5750.0,
+          "fraction": 0.015290763846783887,
+          "mass_RMS": 1.8360082908944588,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.1514275248297992,
+          "contrib_sub": 1.4241436384286732,
+          "contrib_both_if_matching": 2.5765324917908705
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 4390.0,
+          "fraction": 0.011674165789109785,
+          "mass_RMS": 2.119258600236244,
+          "correction": 0.9870074778062499,
+          "systematic": 0.0016704999999999082,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.8160783140009802,
+          "contrib_sub": 0.8160783140009802,
+          "contrib_both_if_matching": 1.632837972985566
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 63994.0,
+          "fraction": 0.1701768941932327,
+          "mass_RMS": 1.3448110409247431,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 23.88552345364698,
+          "contrib_sub": 15.433252633847227,
+          "contrib_both_if_matching": 39.32919387520864
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 6592.0,
+          "fraction": 0.01752986352660859,
+          "mass_RMS": 1.547365089716334,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 2.2986181699070447,
+          "contrib_sub": 1.2008046202009983,
+          "contrib_both_if_matching": 3.5004253436500186
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 15515.0,
+          "fraction": 0.04125846975353948,
+          "mass_RMS": 1.7605335641142952,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 3.378945600726305,
+          "contrib_sub": 5.086941301579542,
+          "contrib_both_if_matching": 8.469320700474274
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 3837.0,
+          "fraction": 0.010203593196540831,
+          "mass_RMS": 1.85231870645025,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 0.9336747186555642,
+          "contrib_sub": 1.1364594353118245,
+          "contrib_both_if_matching": 2.0710829856200443
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 2935.0,
+          "fraction": 0.007804937720054036,
+          "mass_RMS": 1.975008492980089,
+          "correction": 0.9926853677235,
+          "systematic": 0.0007987472826391784,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.32817909343985807,
+          "contrib_sub": 0.27270901010420306,
+          "contrib_both_if_matching": 0.6010070469107259
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1463.0,
+          "fraction": 0.0038905021752773613,
+          "mass_RMS": 2.6230961428118076,
+          "correction": 0.9903806403052501,
+          "systematic": 0.001379036273228662,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.2160774635870037,
+          "contrib_sub": 0.07706287812505433,
+          "contrib_both_if_matching": 0.29321865560079213
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 260.0,
+          "fraction": 0.0006914084522024018,
+          "mass_RMS": 2.18427594193885,
+          "correction": 0.990143307098,
+          "systematic": 0.0009069994054142771,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.023768352715859305,
+          "contrib_sub": 0.02564758547719153,
+          "contrib_both_if_matching": 0.04942712451272291
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 63.0,
+          "fraction": 0.00016753358649519736,
+          "mass_RMS": 3.0042853830212928,
+          "correction": 0.987844481607,
+          "systematic": 0.001487351163383277,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.007093355803851037,
+          "contrib_sub": 0.0032850828168076887,
+          "contrib_both_if_matching": 0.010381777032308026
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 15863.0,
+          "fraction": 0.04218389337417962,
+          "mass_RMS": 1.4025068732686996,
+          "correction": 0.9909624763114999,
+          "systematic": 0.0006497252073274229,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 3.5173539072934563,
+          "contrib_sub": 1.7215785919664202,
+          "contrib_both_if_matching": 5.239683374170148
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1955.0,
+          "fraction": 0.005198859707906522,
+          "mass_RMS": 1.7997137615279686,
+          "correction": 0.98866174894725,
+          "systematic": 0.0012299277910643447,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.613385423953803,
+          "contrib_sub": 0.1288520737711199,
+          "contrib_both_if_matching": 0.7423684415360869
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 1347.0,
+          "fraction": 0.003582027635063982,
+          "mass_RMS": 1.5961115784569857,
+          "correction": 0.9884875607035,
+          "systematic": 0.000949996999725311,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.23061196698564895,
+          "contrib_sub": 0.27156976599737737,
+          "contrib_both_if_matching": 0.5023001794629176
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 135.0,
+          "fraction": 0.00035900054248970864,
+          "mass_RMS": 1.7426467106963346,
+          "correction": 0.9861925793752501,
+          "systematic": 0.0015303736888112596,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.04517608912527742,
+          "contrib_sub": 0.02283260088206209,
+          "contrib_both_if_matching": 0.06803189326431679
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 37453.0,
+          "fraction": 0.09959738753975599,
+          "mass_RMS": 1.461939241790292,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 7.643085249037635,
+          "contrib_sub": 11.828944701762655,
+          "contrib_both_if_matching": 19.477189202806127
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 11242.0,
+          "fraction": 0.029895437767920776,
+          "mass_RMS": 2.0222357958940025,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 2.7936600574409653,
+          "contrib_sub": 1.855658400871238,
+          "contrib_both_if_matching": 4.651204240793214
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 3091.0,
+          "fraction": 0.008219782791375477,
+          "mass_RMS": 1.682755500544618,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.47609948077840014,
+          "contrib_sub": 0.9113646789744676,
+          "contrib_both_if_matching": 1.387861655908993
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2152.0,
+          "fraction": 0.005722734573613726,
+          "mass_RMS": 2.080002522236269,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.5054848090456746,
+          "contrib_sub": 0.4152883703595498,
+          "contrib_both_if_matching": 0.9211952094151451
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 125945.0,
+          "fraction": 0.33492091351012115,
+          "mass_RMS": 1.2583653022872954,
+          "correction": 0.989509657081,
+          "systematic": 0.0008725000000000538,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 34.6903116772133,
+          "contrib_sub": 34.6903116772133,
+          "contrib_both_if_matching": 69.39575370329776
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 11244.0,
+          "fraction": 0.029900756294476177,
+          "mass_RMS": 1.5547398364642668,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 4.727145269944902,
+          "contrib_sub": 2.0288321787762262,
+          "contrib_both_if_matching": 6.75803921621969
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 9309.0,
+          "fraction": 0.02475508185212369,
+          "mass_RMS": 1.5619186209477798,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 1.6642821900906786,
+          "contrib_sub": 3.8777498528666783,
+          "contrib_both_if_matching": 5.5437233424960075
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2189.0,
+          "fraction": 0.005821127314888683,
+          "mass_RMS": 1.6989557638592825,
+          "correction": 0.98492028219225,
+          "systematic": 0.0020335000000000214,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 0.770681943652772,
+          "contrib_sub": 0.770681943652772,
+          "contrib_both_if_matching": 1.5421470802181836
+        }
+      ]
+    },
+    "syst_per_cat": 0.0010914198676853734,
+    "syst_per_cat_and_bin": {
+      "R9_bin_0": {
+        "pT_bin_0": {
+          "eta_bin0": 3.362391694218253e-06,
+          "eta_bin1": 5.60272979828376e-07,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 1.859840096429718e-05,
+          "eta_bin1_calcPhotonSyst": 1.8155195777841955e-05,
+          "eta_bin2_calcPhotonSyst": 1.7506133873822213e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.0003237246838407722,
+          "eta_bin1": 5.2551842854649036e-05,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.00033879095477297845,
+          "eta_bin1_calcPhotonSyst": 0.0001305012127773051,
+          "eta_bin2_calcPhotonSyst": 1.7506133873822213e-05
+        }
+      },
+      "R9_bin_1": {
+        "pT_bin_0": {
+          "eta_bin0": 1.5252859143528571e-05,
+          "eta_bin1": 4.463469132162528e-06,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 2.8670024671975842e-05,
+          "eta_bin1_calcPhotonSyst": 1.9454055830007782e-05,
+          "eta_bin2_calcPhotonSyst": 1.7506133873822213e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.0005487854765812197,
+          "eta_bin1": 0.00011063411970093516,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.0004880731250010186,
+          "eta_bin1_calcPhotonSyst": 0.00011281621017022528,
+          "eta_bin2_calcPhotonSyst": 1.7506133873822213e-05
+        }
+      }
+    },
+    "S": 24.68,
+    "B": 47.06,
+    "S_eff": 8.490415388904378,
+    "eff_mass_res": 0.5137045633741696
+  },
+  "BothEBUntaggedTag_1": {
+    "mass_res": 1.5388764170205993,
+    "n_ev": 448620.0,
+    "ptL0_r9L0_ptS0_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS0_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS0_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 21.0,
+          "fraction": 4.68087572497849e-05,
+          "mass_RMS": 1.2668367232791147,
+          "correction": 0.98993887927025,
+          "systematic": 0.0007272049577247142,
+          "syst_lead": 0.0010275,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.006720759035891805,
+          "contrib_sub": 0.0027933768653347355,
+          "contrib_both_if_matching": 0.009515570630138897
+        }
+      ]
+    },
+    "ptL0_r9L1_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL1_r9L0_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 1309.0,
+          "fraction": 0.0029177458685699254,
+          "mass_RMS": 2.1851320151620195,
+          "correction": 0.9928121052780001,
+          "systematic": 0.001037701144417369,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.18505563957803503,
+          "contrib_sub": 0.0993604621416397,
+          "contrib_both_if_matching": 0.28448317223465536
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 547.0,
+          "fraction": 0.0012192566769348733,
+          "mass_RMS": 2.8826600827239504,
+          "correction": 0.99142946841375,
+          "systematic": 0.0011976383873966157,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.054958602811262296,
+          "contrib_sub": 0.02385776597212943,
+          "contrib_both_if_matching": 0.07883628766726879
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 482.0,
+          "fraction": 0.0010743724283045868,
+          "mass_RMS": 2.544684306513078,
+          "correction": 0.990269720104,
+          "systematic": 0.0011459791138104247,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.050245509419841176,
+          "contrib_sub": 0.03503219567994368,
+          "contrib_both_if_matching": 0.0853013526086189
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 213.0,
+          "fraction": 0.0004747745378192469,
+          "mass_RMS": 2.9431513548041783,
+          "correction": 0.9888906238849999,
+          "systematic": 0.0013059336565173219,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.02053003243647655,
+          "contrib_sub": 0.011572909384972069,
+          "contrib_both_if_matching": 0.032112604060499386
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 9169.0,
+          "fraction": 0.020437595010632276,
+          "mass_RMS": 1.5263040611141778,
+          "correction": 0.991088993902,
+          "systematic": 0.0008886434881254512,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 2.656794059800387,
+          "contrib_sub": 0.8402168350080884,
+          "contrib_both_if_matching": 3.4975780598012345
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 702.0,
+          "fraction": 0.0015647498852070954,
+          "mass_RMS": 1.9978772452541684,
+          "correction": 0.9897087567237499,
+          "systematic": 0.0010485569159470742,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.1468367409181124,
+          "contrib_sub": 0.03754490734639935,
+          "contrib_both_if_matching": 0.18441299456283067
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 1908.0,
+          "fraction": 0.0042529099444090284,
+          "mass_RMS": 1.980278273198068,
+          "correction": 0.9886137623180001,
+          "systematic": 0.001188986974362427,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.32843086457336645,
+          "contrib_sub": 0.24989999280667582,
+          "contrib_both_if_matching": 0.5784995454160912
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 323.0,
+          "fraction": 0.0007199632662705011,
+          "mass_RMS": 2.403337893456973,
+          "correction": 0.98723697226375,
+          "systematic": 0.0013489483884976394,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.046688302045453225,
+          "contrib_sub": 0.02872190045681186,
+          "contrib_both_if_matching": 0.0754341824591709
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 11485.0,
+          "fraction": 0.02559993223875141,
+          "mass_RMS": 1.731694664941666,
+          "correction": 0.9897623374240002,
+          "systematic": 0.0013505000000000322,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 2.58527293723297,
+          "contrib_sub": 2.58527293723297,
+          "contrib_both_if_matching": 5.172290991020349
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 4326.0,
+          "fraction": 0.00964260399345569,
+          "mass_RMS": 2.2071494137118055,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 0.7414097158356143,
+          "contrib_sub": 0.5994336041350942,
+          "contrib_both_if_matching": 1.3413437879676138
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 4361.0,
+          "fraction": 0.009720618588871998,
+          "mass_RMS": 2.0436223765335306,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.704859936490425,
+          "contrib_sub": 0.8718063211876576,
+          "contrib_both_if_matching": 1.5772547462747857
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2907.0,
+          "fraction": 0.00647966939643451,
+          "mass_RMS": 2.4122716449831083,
+          "correction": 0.9870074778062499,
+          "systematic": 0.0016704999999999082,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.41708813298180053,
+          "contrib_sub": 0.41708813298180053,
+          "contrib_both_if_matching": 0.8345244934587484
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 50168.0,
+          "fraction": 0.11182389208129567,
+          "mass_RMS": 1.4528150542680265,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 16.04442521609317,
+          "contrib_sub": 10.366851210331214,
+          "contrib_both_if_matching": 26.418274280845523
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 5595.0,
+          "fraction": 0.012471190324406977,
+          "mass_RMS": 1.6784158461250205,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 1.65819718776761,
+          "contrib_sub": 0.866246891433983,
+          "contrib_both_if_matching": 2.5251673100041923
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 14134.0,
+          "fraction": 0.0315045226175457,
+          "mass_RMS": 1.8503507477124073,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 2.786602391361599,
+          "contrib_sub": 4.195179346080818,
+          "contrib_both_if_matching": 6.984613576518351
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 3390.0,
+          "fraction": 0.007556270813179563,
+          "mass_RMS": 2.0008125127950884,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 0.7070044287967294,
+          "contrib_sub": 0.8605586483805152,
+          "contrib_both_if_matching": 1.5682815588574341
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 2959.0,
+          "fraction": 0.006595576795338739,
+          "mass_RMS": 1.9619667042714986,
+          "correction": 0.9926853677235,
+          "systematic": 0.0007987472826391784,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.33527597943112364,
+          "contrib_sub": 0.27860635332986194,
+          "contrib_both_if_matching": 0.6140038482827008
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 877.0,
+          "fraction": 0.001954822862288636,
+          "mass_RMS": 2.9939508371906616,
+          "correction": 0.9903806403052501,
+          "systematic": 0.001379036273228662,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.0994268839701537,
+          "contrib_sub": 0.03546006934064512,
+          "contrib_both_if_matching": 0.13492298902595004
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 270.0,
+          "fraction": 0.0006018268789258059,
+          "mass_RMS": 2.37645504486114,
+          "correction": 0.990143307098,
+          "systematic": 0.0009069994054142771,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.020851883901368388,
+          "contrib_sub": 0.022500527533991743,
+          "contrib_both_if_matching": 0.04336222515033963
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 89.0,
+          "fraction": 0.00019837997120146934,
+          "mass_RMS": 2.6108670377001486,
+          "correction": 0.987844481607,
+          "systematic": 0.001487351163383277,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.013268262677686953,
+          "contrib_sub": 0.0061448125452407566,
+          "contrib_both_if_matching": 0.01941931978811153
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 33289.0,
+          "fraction": 0.07420079619467093,
+          "mass_RMS": 1.4007303322899236,
+          "correction": 0.9909624763114999,
+          "systematic": 0.0006497252073274229,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 7.400011985777313,
+          "contrib_sub": 3.6219563202305456,
+          "contrib_both_if_matching": 11.023548039944869
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2102.0,
+          "fraction": 0.004685333701859422,
+          "mass_RMS": 1.8075407043810405,
+          "correction": 0.98866174894725,
+          "systematic": 0.0012299277910643447,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.6538078104474832,
+          "contrib_sub": 0.13734348573346325,
+          "contrib_both_if_matching": 0.7912908692505457
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 2060.0,
+          "fraction": 0.0045917161873598525,
+          "mass_RMS": 1.7665238135198158,
+          "correction": 0.9884875607035,
+          "systematic": 0.000949996999725311,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.28791810036284454,
+          "contrib_sub": 0.3390537454060781,
+          "contrib_both_if_matching": 0.6271197257160508
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 266.0,
+          "fraction": 0.0005929109251639421,
+          "mass_RMS": 2.0654328302564253,
+          "correction": 0.9861925793752501,
+          "systematic": 0.0015303736888112596,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.06336552677603306,
+          "contrib_sub": 0.03202578644084648,
+          "contrib_both_if_matching": 0.09542385889822895
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 37896.0,
+          "fraction": 0.08446974593989756,
+          "mass_RMS": 1.5745395225761911,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 6.6669466444107135,
+          "contrib_sub": 10.318207977107974,
+          "contrib_both_if_matching": 16.989654958323424
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 11198.0,
+          "fraction": 0.024960212556337683,
+          "mass_RMS": 2.0966549906687435,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 2.588690223486075,
+          "contrib_sub": 1.7195094112006817,
+          "contrib_both_if_matching": 4.309947057985168
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 4121.0,
+          "fraction": 0.00918566136316017,
+          "mass_RMS": 1.7600108689926997,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.5802466681340662,
+          "contrib_sub": 1.1107265178391248,
+          "contrib_both_if_matching": 1.6914576347690824
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2269.0,
+          "fraction": 0.005057574771417235,
+          "mass_RMS": 2.2004303689360505,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.4762256687336585,
+          "contrib_sub": 0.3912500996126229,
+          "contrib_both_if_matching": 0.8678733698569571
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 198191.0,
+          "fraction": 0.44176544800438666,
+          "mass_RMS": 1.3483861317068948,
+          "correction": 0.989509657081,
+          "systematic": 0.0008725000000000538,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 47.544043566453084,
+          "contrib_sub": 47.544043566453084,
+          "contrib_both_if_matching": 95.10882369972055
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 20000.0,
+          "fraction": 0.04457976880931896,
+          "mass_RMS": 1.5887344007399926,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 8.052318817313159,
+          "contrib_sub": 3.455955465172467,
+          "contrib_both_if_matching": 11.511786340668216
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 17713.0,
+          "fraction": 0.03948207224597333,
+          "mass_RMS": 1.610395968896154,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 2.978979492828835,
+          "contrib_sub": 6.940972726133944,
+          "contrib_both_if_matching": 9.922979558119486
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 4280.0,
+          "fraction": 0.009540070525194256,
+          "mass_RMS": 1.8097653764671562,
+          "correction": 0.98492028219225,
+          "systematic": 0.0020335000000000214,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 1.3279838188787196,
+          "contrib_sub": 1.3279838188787196,
+          "contrib_both_if_matching": 2.657317179580252
+        }
+      ]
+    },
+    "syst_per_cat": 0.0010421485874686637,
+    "syst_per_cat_and_bin": {
+      "R9_bin_0": {
+        "pT_bin_0": {
+          "eta_bin0": 2.12214979443598e-06,
+          "eta_bin1": 3.6519168099648377e-07,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 2.5013725339088447e-05,
+          "eta_bin1_calcPhotonSyst": 2.3191416750657406e-05,
+          "eta_bin2_calcPhotonSyst": 2.2728583655951443e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.00019686678224337158,
+          "eta_bin1": 3.1951935323631906e-05,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.00021203549174179237,
+          "eta_bin1_calcPhotonSyst": 9.017666507247742e-05,
+          "eta_bin2_calcPhotonSyst": 2.2728583655951443e-05
+        }
+      },
+      "R9_bin_1": {
+        "pT_bin_0": {
+          "eta_bin0": 2.2517294302536942e-05,
+          "eta_bin1": 3.1856279442941442e-06,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 3.6055978343301235e-05,
+          "eta_bin1_calcPhotonSyst": 2.3654700816028518e-05,
+          "eta_bin2_calcPhotonSyst": 2.2728583655951443e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.0006215166908424521,
+          "eta_bin1": 0.000129095738395478,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.0005750921552574674,
+          "eta_bin1_calcPhotonSyst": 0.00014600380832152188,
+          "eta_bin2_calcPhotonSyst": 2.2728583655951443e-05
+        }
+      }
+    },
+    "S": 69.66,
+    "B": 292.1,
+    "S_eff": 13.41363224237063,
+    "eff_mass_res": 0.42017532687426834
+  },
+  "BothEBUntaggedTag_2": {
+    "mass_res": 1.7224111286407697,
+    "n_ev": 644259.0,
+    "ptL0_r9L0_ptS0_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 11.0,
+          "fraction": 1.7073799168661197e-05,
+          "mass_RMS": 0.8485524864818326,
+          "correction": 0.9915970566669999,
+          "systematic": 0.0006842169338436843,
+          "syst_lead": 0.0009415000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.007189909221033113,
+          "contrib_sub": 0.0032612702609733394,
+          "contrib_both_if_matching": 0.010452714363791946
+        }
+      ]
+    },
+    "ptL0_r9L0_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 12.0,
+          "fraction": 1.862596272944858e-05,
+          "mass_RMS": 0.8687774775815313,
+          "correction": 0.9915970566669999,
+          "systematic": 0.0006842169338436843,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.0033940299054022512,
+          "contrib_sub": 0.007482595725148728,
+          "contrib_both_if_matching": 0.010878222994235787
+        }
+      ]
+    },
+    "ptL0_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 21.0,
+          "fraction": 3.2595434776535014e-05,
+          "mass_RMS": 1.11422466255279,
+          "correction": 0.9924174286022499,
+          "systematic": 0.0004269999999999552,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.0036109816921290863,
+          "contrib_sub": 0.0036109816921290863,
+          "contrib_both_if_matching": 0.007222734246566306
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 212.0,
+          "fraction": 0.0003290586748869249,
+          "mass_RMS": 1.471456196856077,
+          "correction": 0.98993887927025,
+          "systematic": 0.0007272049577247142,
+          "syst_lead": 0.0010275,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.05028998461650738,
+          "contrib_sub": 0.020902234232111662,
+          "contrib_both_if_matching": 0.0712029546144077
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 150.0,
+          "fraction": 0.00023282453411810724,
+          "mass_RMS": 1.3903436825321556,
+          "correction": 0.98993887927025,
+          "systematic": 0.0007272049577247142,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.016565267340037767,
+          "contrib_sub": 0.039855406386127286,
+          "contrib_both_if_matching": 0.05642918194726784
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 24.0,
+          "fraction": 3.725192545889716e-05,
+          "mass_RMS": 1.2479149276557517,
+          "correction": 0.98746652008225,
+          "systematic": 0.001027499999999959,
+          "syst_lead": 0.0010275,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.007915559186019485,
+          "contrib_sub": 0.007915559186019485,
+          "contrib_both_if_matching": 0.01583518394649383
+        }
+      ]
+    },
+    "ptL0_r9L1_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL1_r9L0_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 2984.0,
+          "fraction": 0.004631656065389547,
+          "mass_RMS": 1.9192054964160796,
+          "correction": 0.9928121052780001,
+          "systematic": 0.001037701144417369,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.54685715623112,
+          "contrib_sub": 0.2936196913127541,
+          "contrib_both_if_matching": 0.8406750473456898
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 871.0,
+          "fraction": 0.0013519344614458092,
+          "mass_RMS": 2.83933926030038,
+          "correction": 0.99142946841375,
+          "systematic": 0.0011976383873966157,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.09020254799207622,
+          "contrib_sub": 0.039157314232954384,
+          "contrib_both_if_matching": 0.1293925547242384
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 1149.0,
+          "fraction": 0.0017834359313447013,
+          "mass_RMS": 2.2334859575229262,
+          "correction": 0.990269720104,
+          "systematic": 0.0011459791138104247,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.15547895552724947,
+          "contrib_sub": 0.10840310421836462,
+          "contrib_both_if_matching": 0.2639552342445254
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 361.0,
+          "fraction": 0.0005603310454442447,
+          "mass_RMS": 2.8310864234855577,
+          "correction": 0.9888906238849999,
+          "systematic": 0.0013059336565173219,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.03760418436621526,
+          "contrib_sub": 0.021197717028092606,
+          "contrib_both_if_matching": 0.05881959939940259
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 21895.0,
+          "fraction": 0.03398462116343972,
+          "mass_RMS": 1.5423492710588949,
+          "correction": 0.991088993902,
+          "systematic": 0.0008886434881254512,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 6.2129451971228224,
+          "contrib_sub": 1.9648572799042816,
+          "contrib_both_if_matching": 8.179128799255484
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2820.0,
+          "fraction": 0.004377101241420416,
+          "mass_RMS": 1.7700719033326109,
+          "correction": 0.9897087567237499,
+          "systematic": 0.0010485569159470742,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.7514542013352598,
+          "contrib_sub": 0.19214045604518537,
+          "contrib_both_if_matching": 0.9437550757295637
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 8142.0,
+          "fraction": 0.01263771571193086,
+          "mass_RMS": 1.8925988191988456,
+          "correction": 0.9886137623180001,
+          "systematic": 0.001188986974362427,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 1.534376741905361,
+          "contrib_sub": 1.1674930042368952,
+          "contrib_both_if_matching": 2.7026578298063404
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1104.0,
+          "fraction": 0.0017135885711092693,
+          "mass_RMS": 2.15393975029429,
+          "correction": 0.98723697226375,
+          "systematic": 0.0013489483884976394,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.19867224382318646,
+          "contrib_sub": 0.1222200028835001,
+          "contrib_both_if_matching": 0.32099428836672855
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 19129.0,
+          "fraction": 0.02969133675430182,
+          "mass_RMS": 1.7992277167559136,
+          "correction": 0.9897623374240002,
+          "systematic": 0.0013505000000000322,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 3.98876123206137,
+          "contrib_sub": 3.98876123206137,
+          "contrib_both_if_matching": 7.9802149663949
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 7964.0,
+          "fraction": 0.012361430598110706,
+          "mass_RMS": 2.2438694245777904,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 1.3206000680091168,
+          "contrib_sub": 1.0677120106196072,
+          "contrib_both_if_matching": 2.3892035129552958
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 7823.0,
+          "fraction": 0.012142575536039686,
+          "mass_RMS": 2.1659032822894777,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.1256755929208457,
+          "contrib_sub": 1.3922923501673428,
+          "contrib_both_if_matching": 2.5189077712947956
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 5645.0,
+          "fraction": 0.008761963300644769,
+          "mass_RMS": 2.48216219870615,
+          "correction": 0.9870074778062499,
+          "systematic": 0.0016704999999999082,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.764960230279652,
+          "contrib_sub": 0.764960230279652,
+          "contrib_both_if_matching": 1.5305591269796914
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 70873.0,
+          "fraction": 0.1100064880436841,
+          "mass_RMS": 1.6072448949917943,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 18.519734011959784,
+          "contrib_sub": 11.96623277998908,
+          "contrib_both_if_matching": 30.49404426439106
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 11941.0,
+          "fraction": 0.01853438507936212,
+          "mass_RMS": 1.7936824388757822,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 3.09873766903161,
+          "contrib_sub": 1.6187893050173288,
+          "contrib_both_if_matching": 4.718878503618492
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 28108.0,
+          "fraction": 0.04362821336661172,
+          "mass_RMS": 1.9961043996825936,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 4.761913250819264,
+          "contrib_sub": 7.1689740092070595,
+          "contrib_both_if_matching": 11.935726476436127
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 9375.0,
+          "fraction": 0.014551533382381701,
+          "mass_RMS": 2.1488041988876203,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 1.6951682675424686,
+          "contrib_sub": 2.063341690202203,
+          "contrib_both_if_matching": 3.760232644754059
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 8991.0,
+          "fraction": 0.013955502575039348,
+          "mass_RMS": 1.83182543290724,
+          "correction": 0.9926853677235,
+          "systematic": 0.0007987472826391784,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.000725,
+          "contrib_lead": 1.1686395212450005,
+          "contrib_sub": 0.971111607588673,
+          "contrib_both_if_matching": 2.1401746839042217
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2121.0,
+          "fraction": 0.003292138912430036,
+          "mass_RMS": 2.53960732479535,
+          "correction": 0.9903806403052501,
+          "systematic": 0.001379036273228662,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.33419587979229803,
+          "contrib_sub": 0.11918918302166792,
+          "contrib_both_if_matching": 0.45350618687063976
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 1164.0,
+          "fraction": 0.0018067183847565121,
+          "mass_RMS": 2.0768429362242355,
+          "correction": 0.990143307098,
+          "systematic": 0.0009069994054142771,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.11770269675225174,
+          "contrib_sub": 0.12700880081752822,
+          "contrib_both_if_matching": 0.24476689307858426
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 225.0,
+          "fraction": 0.00034923680117716086,
+          "mass_RMS": 2.688221680306631,
+          "correction": 0.987844481607,
+          "systematic": 0.001487351163383277,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.031640688434260864,
+          "contrib_sub": 0.01465347076357358,
+          "contrib_both_if_matching": 0.04630905054768093
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 64049.0,
+          "fraction": 0.099414523904871,
+          "mass_RMS": 1.4521370121381432,
+          "correction": 0.9909624763114999,
+          "systematic": 0.0006497252073274229,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 13.247621282031728,
+          "contrib_sub": 6.48408485319978,
+          "contrib_both_if_matching": 19.734534200505472
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 11348.0,
+          "fraction": 0.017613952087815205,
+          "mass_RMS": 1.7164059526773194,
+          "correction": 0.98866174894725,
+          "systematic": 0.0012299277910643447,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 3.9144690877947546,
+          "contrib_sub": 0.8223010198450459,
+          "contrib_both_if_matching": 4.737605757593357
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 11826.0,
+          "fraction": 0.018355886269871575,
+          "mass_RMS": 1.6526456027309109,
+          "correction": 0.9884875607035,
+          "systematic": 0.000949996999725311,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 1.8885093976051357,
+          "contrib_sub": 2.2239177866402327,
+          "contrib_both_if_matching": 4.113397156850484
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1116.0,
+          "fraction": 0.0017322145338387177,
+          "mass_RMS": 1.9531968173550007,
+          "correction": 0.9861925793752501,
+          "systematic": 0.0015303736888112596,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.29728003503344974,
+          "contrib_sub": 0.15024931377528825,
+          "contrib_both_if_matching": 0.44768203721494254
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 58527.0,
+          "fraction": 0.09084347672220308,
+          "mass_RMS": 1.6977282288399527,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 8.856470167777294,
+          "contrib_sub": 13.706859527785488,
+          "contrib_both_if_matching": 22.56930800929198
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 23334.0,
+          "fraction": 0.03621818452741276,
+          "mass_RMS": 2.2086099672325505,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 4.861213583882343,
+          "contrib_sub": 3.2290084118623192,
+          "contrib_both_if_matching": 8.09350342269871
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 9037.0,
+          "fraction": 0.014026902098835567,
+          "mass_RMS": 1.8460885706617252,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.156538130077599,
+          "contrib_sub": 2.213881854936317,
+          "contrib_both_if_matching": 3.3713855803982384
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 5993.0,
+          "fraction": 0.009302116219798777,
+          "mass_RMS": 2.3104914215498282,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.140851510351697,
+          "contrib_sub": 0.9372830915545421,
+          "contrib_both_if_matching": 2.0790871005088
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 170140.0,
+          "fraction": 0.2640851082323651,
+          "mass_RMS": 1.5341289464220504,
+          "correction": 0.989509657081,
+          "systematic": 0.0008725000000000538,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 31.529961474888434,
+          "contrib_sub": 31.529961474888434,
+          "contrib_both_if_matching": 63.07367489647161
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 33138.0,
+          "fraction": 0.05143559607737225,
+          "mass_RMS": 1.7551329131699855,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 10.93200540059067,
+          "contrib_sub": 4.691881266329764,
+          "contrib_both_if_matching": 15.628654714471745
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 32999.0,
+          "fraction": 0.051219845342422805,
+          "mass_RMS": 1.7276897857295896,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 4.821808834870074,
+          "contrib_sub": 11.23473447669949,
+          "contrib_both_if_matching": 16.061443395886055
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 9637.0,
+          "fraction": 0.014958200235307997,
+          "mass_RMS": 1.9462075154631957,
+          "correction": 0.98492028219225,
+          "systematic": 0.0020335000000000214,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 2.5855749599963747,
+          "contrib_sub": 2.5855749599963747,
+          "contrib_both_if_matching": 5.173777468231612
+        }
+      ]
+    },
+    "syst_per_cat": 0.0011094903497105308,
+    "syst_per_cat_and_bin": {
+      "R9_bin_0": {
+        "pT_bin_0": {
+          "eta_bin0": 6.133346340722702e-06,
+          "eta_bin1": 1.2323585239155986e-06,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 1.8326012784407817e-05,
+          "eta_bin1_calcPhotonSyst": 1.6614984949839422e-05,
+          "eta_bin2_calcPhotonSyst": 1.545985152885553e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.00025359882506424854,
+          "eta_bin1": 5.717731466515679e-05,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.00023686445742547178,
+          "eta_bin1_calcPhotonSyst": 0.00013033638816847544,
+          "eta_bin2_calcPhotonSyst": 1.545985152885553e-05
+        }
+      },
+      "R9_bin_1": {
+        "pT_bin_0": {
+          "eta_bin0": 4.100768724096355e-05,
+          "eta_bin1": 1.6247784403923467e-05,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 3.785061775169721e-05,
+          "eta_bin1_calcPhotonSyst": 2.101741406414773e-05,
+          "eta_bin2_calcPhotonSyst": 1.545985152885553e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.00048533049894114384,
+          "eta_bin1": 0.00020322326364535058,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.00046274310812889234,
+          "eta_bin1_calcPhotonSyst": 0.0002137000253356682,
+          "eta_bin2_calcPhotonSyst": 1.545985152885553e-05
+        }
+      }
+    },
+    "S": 98.33,
+    "B": 751.31,
+    "S_eff": 11.379865472435384,
+    "eff_mass_res": 0.5105852432266393
+  },
+  "BothEBUntaggedTag_3": {
+    "mass_res": 2.052826664268657,
+    "n_ev": 556133.0,
+    "ptL0_r9L0_ptS0_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 41.0,
+          "fraction": 7.372032307482074e-05,
+          "mass_RMS": 1.4579420029607177,
+          "correction": 0.99414284960025,
+          "systematic": 0.000575988905890279,
+          "syst_lead": 0.000725,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.006990893354053829,
+          "contrib_sub": 0.004117701745154247,
+          "contrib_both_if_matching": 0.011110087495644136
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 90.0,
+          "fraction": 0.00016182509943253332,
+          "mass_RMS": 1.7748434985783288,
+          "correction": 0.9915970566669999,
+          "systematic": 0.0006842169338436843,
+          "syst_lead": 0.0009415000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.013446539255207082,
+          "contrib_sub": 0.00609921450158675,
+          "contrib_both_if_matching": 0.019548624286524634
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 27.0,
+          "fraction": 4.8547529829759996e-05,
+          "mass_RMS": 2.2481511989728715,
+          "correction": 0.99165999105225,
+          "systematic": 0.0008762385717326904,
+          "syst_lead": 0.000725,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.0019361635863688709,
+          "contrib_sub": 0.002743803779984911,
+          "contrib_both_if_matching": 0.0046809618150126875
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 13.0,
+          "fraction": 2.3374736584699258e-05,
+          "mass_RMS": 2.3838398242523486,
+          "correction": 0.989120556203,
+          "systematic": 0.0009844990764091843,
+          "syst_lead": 0.0009415000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.0010766569629768455,
+          "contrib_sub": 0.0011749774429775741,
+          "contrib_both_if_matching": 0.002252187396455861
+        }
+      ]
+    },
+    "ptL0_r9L0_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 29.0,
+          "fraction": 5.2143643150482956e-05,
+          "mass_RMS": 2.9494855352607936,
+          "correction": 0.99414284960025,
+          "systematic": 0.000575988905890279,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.0007116344802180738,
+          "contrib_sub": 0.0012081887096671506,
+          "contrib_both_if_matching": 0.0019200811106448582
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 16.0,
+          "fraction": 2.8768906565783702e-05,
+          "mass_RMS": 1.798368944175527,
+          "correction": 0.99165999105225,
+          "systematic": 0.0008762385717326904,
+          "syst_lead": 0.0010275,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.0025409885774323724,
+          "contrib_sub": 0.001793047153332099,
+          "contrib_both_if_matching": 0.00433495667223323
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 82.0,
+          "fraction": 0.00014744064614964148,
+          "mass_RMS": 2.4760903053960277,
+          "correction": 0.9915970566669999,
+          "systematic": 0.0006842169338436843,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.0028551729383917614,
+          "contrib_sub": 0.0062946130172175105,
+          "contrib_both_if_matching": 0.009151129712055959
+        }
+      ]
+    },
+    "ptL0_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 87.0,
+          "fraction": 0.00015643092945144888,
+          "mass_RMS": 1.927559133182267,
+          "correction": 0.9924174286022499,
+          "systematic": 0.0004269999999999552,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.004998680262398587,
+          "contrib_sub": 0.004998680262398587,
+          "contrib_both_if_matching": 0.00999842762912869
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 630.0,
+          "fraction": 0.0011327756960277332,
+          "mass_RMS": 1.737929659794391,
+          "correction": 0.98993887927025,
+          "systematic": 0.0007272049577247142,
+          "syst_lead": 0.0010275,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.10713132538431439,
+          "contrib_sub": 0.04452743570823201,
+          "contrib_both_if_matching": 0.15168163118938027
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 513.0,
+          "fraction": 0.0009224030667654399,
+          "mass_RMS": 1.725434580140866,
+          "correction": 0.98993887927025,
+          "systematic": 0.0007272049577247142,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.0367850961569025,
+          "contrib_sub": 0.0885035493959481,
+          "contrib_both_if_matching": 0.12530753904397063
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 120.0,
+          "fraction": 0.00021576679924337775,
+          "mass_RMS": 1.6241864950906386,
+          "correction": 0.98746652008225,
+          "systematic": 0.001027499999999959,
+          "syst_lead": 0.0010275,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.023364138626115652,
+          "contrib_sub": 0.023364138626115652,
+          "contrib_both_if_matching": 0.046740277496677196
+        }
+      ]
+    },
+    "ptL0_r9L1_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL1_r9L0_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 7995.0,
+          "fraction": 0.014375462999590043,
+          "mass_RMS": 2.0669402476011234,
+          "correction": 0.9928121052780001,
+          "systematic": 0.001037701144417369,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 1.2632248560901407,
+          "contrib_sub": 0.6782533392450066,
+          "contrib_both_if_matching": 1.941936031377472
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 3535.0,
+          "fraction": 0.006356130294377836,
+          "mass_RMS": 2.6552192860886517,
+          "correction": 0.99142946841375,
+          "systematic": 0.0011976383873966157,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.41862374245963374,
+          "contrib_sub": 0.18172636797695788,
+          "contrib_both_if_matching": 0.6005018340483229
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 4491.0,
+          "fraction": 0.008075072461683413,
+          "mass_RMS": 2.321603343975279,
+          "correction": 0.990269720104,
+          "systematic": 0.0011459791138104247,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.5624514648204055,
+          "contrib_sub": 0.39215265211896994,
+          "contrib_both_if_matching": 0.9548688286745463
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1422.0,
+          "fraction": 0.0025568365710340263,
+          "mass_RMS": 2.8207692323683675,
+          "correction": 0.9888906238849999,
+          "systematic": 0.0013059336565173219,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.14921061011524628,
+          "contrib_sub": 0.08411096648206284,
+          "contrib_both_if_matching": 0.23339180096681783
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 28979.0,
+          "fraction": 0.052105883960615364,
+          "mass_RMS": 1.7156125726569607,
+          "correction": 0.991088993902,
+          "systematic": 0.0008886434881254512,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 6.64604064192055,
+          "contrib_sub": 2.1018246457194953,
+          "contrib_both_if_matching": 8.749284065877164
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 8272.0,
+          "fraction": 0.014873524694510174,
+          "mass_RMS": 1.8091246149594886,
+          "correction": 0.9897087567237499,
+          "systematic": 0.0010485569159470742,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 2.1101279302663096,
+          "contrib_sub": 0.5395417872634466,
+          "contrib_both_if_matching": 2.6501201817608444
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 23131.0,
+          "fraction": 0.04159084861082142,
+          "mass_RMS": 2.006867064202226,
+          "correction": 0.9886137623180001,
+          "systematic": 0.001188986974362427,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 3.876816416641967,
+          "contrib_sub": 2.9498335848859036,
+          "contrib_both_if_matching": 6.828641204602817
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 3194.0,
+          "fraction": 0.0057429929731945715,
+          "mass_RMS": 2.0781509760400687,
+          "correction": 0.98723697226375,
+          "systematic": 0.0013489483884976394,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.6174701197966427,
+          "contrib_sub": 0.37985779175668255,
+          "contrib_both_if_matching": 0.9976450553819642
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 22226.0,
+          "fraction": 0.03996360733319428,
+          "mass_RMS": 2.059407580698458,
+          "correction": 0.9897623374240002,
+          "systematic": 0.0013505000000000322,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 3.5374860369114653,
+          "contrib_sub": 3.5374860369114653,
+          "contrib_both_if_matching": 7.077359955332499
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 13955.0,
+          "fraction": 0.025091880695344473,
+          "mass_RMS": 2.491888772112245,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 1.8763236813348871,
+          "contrib_sub": 1.5170174369227925,
+          "contrib_both_if_matching": 3.394607678344885
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 12519.0,
+          "fraction": 0.022509871331065384,
+          "mass_RMS": 2.3974099351256113,
+          "correction": 0.98838394781,
+          "systematic": 0.0015104872193050234,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.4702902466644898,
+          "contrib_sub": 1.818529135596679,
+          "contrib_both_if_matching": 3.2900469297485664
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 12417.0,
+          "fraction": 0.022326469551708514,
+          "mass_RMS": 2.7259694115665885,
+          "correction": 0.9870074778062499,
+          "systematic": 0.0016704999999999082,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.3951148137233906,
+          "contrib_sub": 1.3951148137233906,
+          "contrib_both_if_matching": 2.791394410854913
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 42748.0,
+          "fraction": 0.0768633261171326,
+          "mass_RMS": 1.916017847398771,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 7.860220671865401,
+          "contrib_sub": 5.078757081547861,
+          "contrib_both_if_matching": 12.942406027049676
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 9096.0,
+          "fraction": 0.016355123382648034,
+          "mass_RMS": 2.061126069916652,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 1.7876255956380367,
+          "contrib_sub": 0.9338606570392347,
+          "contrib_both_if_matching": 2.722265934312132
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 32109.0,
+          "fraction": 0.0577338013075468,
+          "mass_RMS": 2.2870937277171612,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 4.14359111185663,
+          "contrib_sub": 6.238101246504421,
+          "contrib_both_if_matching": 10.385903215016318
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 8432.0,
+          "fraction": 0.01516121376016801,
+          "mass_RMS": 2.4680257798109495,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 1.155756753421817,
+          "contrib_sub": 1.4067754444962428,
+          "contrib_both_if_matching": 2.5637067168040333
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 21790.0,
+          "fraction": 0.03917965462927668,
+          "mass_RMS": 1.960719894710524,
+          "correction": 0.9926853677235,
+          "systematic": 0.0007987472826391784,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.000725,
+          "contrib_lead": 2.4721046967964124,
+          "contrib_sub": 2.0542601226389454,
+          "contrib_both_if_matching": 4.5272607950208315
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 10602.0,
+          "fraction": 0.019062996713152425,
+          "mass_RMS": 2.5726992756940166,
+          "correction": 0.9903806403052501,
+          "systematic": 0.001379036273228662,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.000725,
+          "contrib_lead": 1.6278085159968887,
+          "contrib_sub": 0.5805492493143962,
+          "contrib_both_if_matching": 2.2089477389850125
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 4605.0,
+          "fraction": 0.008280050920964621,
+          "mass_RMS": 2.116333542380954,
+          "correction": 0.990143307098,
+          "systematic": 0.0009069994054142771,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.44843772895989453,
+          "contrib_sub": 0.4838932307253389,
+          "contrib_both_if_matching": 0.9325420120812127
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 1079.0,
+          "fraction": 0.0019401031365300382,
+          "mass_RMS": 2.632447102584239,
+          "correction": 0.987844481607,
+          "systematic": 0.001487351163383277,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.1582325049407319,
+          "contrib_sub": 0.0732808133999184,
+          "contrib_both_if_matching": 0.23158778876796274
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 43707.0,
+          "fraction": 0.07858766245441927,
+          "mass_RMS": 1.688366300331195,
+          "correction": 0.9909624763114999,
+          "systematic": 0.0006497252073274229,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 6.687416745087367,
+          "contrib_sub": 3.273174610046323,
+          "contrib_both_if_matching": 9.962018966224516
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 25450.0,
+          "fraction": 0.0457605420061997,
+          "mass_RMS": 1.7290983316141626,
+          "correction": 0.98866174894725,
+          "systematic": 0.0012299277910643447,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 8.650515088285228,
+          "contrib_sub": 1.817188287796455,
+          "contrib_both_if_matching": 10.469550063938872
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 22111.0,
+          "fraction": 0.03975683081725271,
+          "mass_RMS": 1.7124711185966026,
+          "correction": 0.9884875607035,
+          "systematic": 0.000949996999725311,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 3.28853609951209,
+          "contrib_sub": 3.8725959918376747,
+          "contrib_both_if_matching": 7.162821143006857
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2436.0,
+          "fraction": 0.004380066024640568,
+          "mass_RMS": 1.8667068920015326,
+          "correction": 0.9861925793752501,
+          "systematic": 0.0015303736888112596,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 0.710425574102129,
+          "contrib_sub": 0.3590586060892036,
+          "contrib_both_if_matching": 1.0698490676235626
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 46550.0,
+          "fraction": 0.08369953753982695,
+          "mass_RMS": 1.9538156823261388,
+          "correction": 0.9896359891880001,
+          "systematic": 0.0011114714712092688,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 5.318549963917214,
+          "contrib_sub": 8.23134001084968,
+          "contrib_both_if_matching": 13.553480113915603
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 34244.0,
+          "fraction": 0.061572652277418566,
+          "mass_RMS": 2.436924170531132,
+          "correction": 0.9873383415420001,
+          "systematic": 0.001691941787369089,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 5.859951507680272,
+          "contrib_sub": 3.892409248205303,
+          "contrib_both_if_matching": 9.756316353082637
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 9077.0,
+          "fraction": 0.016320960306101164,
+          "mass_RMS": 2.1002114159848477,
+          "correction": 0.9882577755324999,
+          "systematic": 0.001271420500580378,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 0.8975466830170592,
+          "contrib_sub": 1.7181122384234941,
+          "contrib_both_if_matching": 2.6164082844851397
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 9206.0,
+          "fraction": 0.016552909615287797,
+          "mass_RMS": 2.612036203289954,
+          "correction": 0.98596332769875,
+          "systematic": 0.0018519835593229228,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.371216881208075,
+          "contrib_sub": 1.126543100437567,
+          "contrib_both_if_matching": 2.49890481263487
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 52873.0,
+          "fraction": 0.0950686498032926,
+          "mass_RMS": 1.8433190592084512,
+          "correction": 0.989509657081,
+          "systematic": 0.0008725000000000538,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 6.786934630390252,
+          "contrib_sub": 6.786934630390252,
+          "contrib_both_if_matching": 13.576829415468042
+        },
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 16287.0,
+          "fraction": 0.029284948827307446,
+          "mass_RMS": 1.9726385934336512,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 4.253433135473958,
+          "contrib_sub": 1.8255208001304364,
+          "contrib_both_if_matching": 6.0808090912417265
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 17103.0,
+          "fraction": 0.030752163062162413,
+          "mass_RMS": 1.9811609479065675,
+          "correction": 0.9872123027415,
+          "systematic": 0.0014528317543218705,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 1.9005247023453473,
+          "contrib_sub": 4.428190981535178,
+          "contrib_both_if_matching": 6.330647061005998
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2844.0,
+          "fraction": 0.005113673142068053,
+          "mass_RMS": 2.223606971201274,
+          "correction": 0.98492028219225,
+          "systematic": 0.0020335000000000214,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 0.5845304004417621,
+          "contrib_sub": 0.5845304004417621,
+          "contrib_both_if_matching": 1.169654820336839
+        }
+      ]
+    },
+    "syst_per_cat": 0.0011759253655873182,
+    "syst_per_cat_and_bin": {
+      "R9_bin_0": {
+        "pT_bin_0": {
+          "eta_bin0": 2.469570467085467e-05,
+          "eta_bin1": 7.42448820975481e-06,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 2.6320915694252112e-05,
+          "eta_bin1_calcPhotonSyst": 2.0116682143658056e-05,
+          "eta_bin2_calcPhotonSyst": 1.364960709161433e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.00032775863951950684,
+          "eta_bin1": 0.00010964816947468487,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.00027040717948900695,
+          "eta_bin1_calcPhotonSyst": 0.00025065565087724594,
+          "eta_bin2_calcPhotonSyst": 1.364960709161433e-05
+        }
+      },
+      "R9_bin_1": {
+        "pT_bin_0": {
+          "eta_bin0": 5.5190045526149025e-05,
+          "eta_bin1": 5.500241404989689e-05,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 4.18813868259718e-05,
+          "eta_bin1_calcPhotonSyst": 3.801113202443613e-05,
+          "eta_bin2_calcPhotonSyst": 1.364960709161433e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.00029879552163449436,
+          "eta_bin1": 0.0002526411925672467,
+          "eta_bin2": 0.0,
+          "eta_bin0_calcPhotonSyst": 0.000323172375299183,
+          "eta_bin1_calcPhotonSyst": 0.00019489396364476215,
+          "eta_bin2_calcPhotonSyst": 1.364960709161433e-05
+        }
+      }
+    },
+    "S": 163.51,
+    "B": 2226.11,
+    "S_eff": 11.188188958913967,
+    "eff_mass_res": 0.6137229781490111
+  },
+  "NotEBEBUntaggedTag_0": {
+    "mass_res": 2.281425368347416,
+    "n_ev": 648721.0,
+    "ptL0_r9L0_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 41.0,
+          "fraction": 6.276810400521741e-05,
+          "mass_RMS": 2.563297437621968,
+          "correction": 0.9941862597075,
+          "systematic": 0.0009822169436877193,
+          "syst_lead": 0.0012395,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.0038660535999110275,
+          "contrib_sub": 0.0022615967239196524,
+          "contrib_both_if_matching": 0.006129051514340216
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 73.0,
+          "fraction": 0.0001117578437166066,
+          "mass_RMS": 2.705119622334779,
+          "correction": 0.9941862597075,
+          "systematic": 0.0009822169436877193,
+          "syst_lead": 0.000725,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.0036155904215142967,
+          "contrib_sub": 0.006180618417537013,
+          "contrib_both_if_matching": 0.009798448907287797
+        }
+      ]
+    },
+    "ptL0_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 432.0,
+          "fraction": 0.0006613614861037541,
+          "mass_RMS": 2.332456429574143,
+          "correction": 0.9924607633674999,
+          "systematic": 0.0008331675491675128,
+          "syst_lead": 0.0012395,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.04919700764397268,
+          "contrib_sub": 0.016951502302457244,
+          "contrib_both_if_matching": 0.06615901238653953
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 612.0,
+          "fraction": 0.0009369287719803184,
+          "mass_RMS": 2.5115366088823317,
+          "correction": 0.9915357483315,
+          "systematic": 0.0008522419106129497,
+          "syst_lead": 0.000725,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 0.03516427863670283,
+          "contrib_sub": 0.04750513231999886,
+          "contrib_both_if_matching": 0.08268662844707783
+        }
+      ]
+    },
+    "ptL0_r9L0_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L0_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 326.0,
+          "fraction": 0.0004990829733097775,
+          "mass_RMS": 2.6695409824862937,
+          "correction": 0.9915357483315,
+          "systematic": 0.0008522419106129497,
+          "syst_lead": 0.0009795,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.022398170741124924,
+          "contrib_sub": 0.0165795878977436,
+          "contrib_both_if_matching": 0.0389858765046726
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 332.0,
+          "fraction": 0.000508268549505663,
+          "mass_RMS": 2.419429820120459,
+          "correction": 0.9924607633674999,
+          "systematic": 0.0008331675491675128,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.012107752960070123,
+          "contrib_sub": 0.03513937610364815,
+          "contrib_both_if_matching": 0.047254630519816744
+        }
+      ]
+    },
+    "ptL0_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 2682.0,
+          "fraction": 0.004105952559560807,
+          "mass_RMS": 2.1487637864639244,
+          "correction": 0.9898148521835001,
+          "systematic": 0.0007032118697831713,
+          "syst_lead": 0.0009795,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 0.28441307450546527,
+          "contrib_sub": 0.1240032155533772,
+          "contrib_both_if_matching": 0.4084770057696235
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 2172.0,
+          "fraction": 0.0033251785829105417,
+          "mass_RMS": 2.0917823520314456,
+          "correction": 0.9898148521835001,
+          "systematic": 0.0007032118697831713,
+          "syst_lead": 0.00042699999999999997,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 0.10596888324255058,
+          "contrib_sub": 0.24304963182145206,
+          "contrib_both_if_matching": 0.34907040062227646
+        }
+      ]
+    },
+    "ptL0_r9L1_ptS1_r9S0": {
+      "bins": []
+    },
+    "ptL0_r9L1_ptS1_r9S1": {
+      "bins": []
+    },
+    "ptL1_r9L0_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 4237.0,
+          "fraction": 0.0064865477236611254,
+          "mass_RMS": 2.7081317744254236,
+          "correction": 0.9990886080262502,
+          "systematic": 0.0015346724527314226,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.000725,
+          "contrib_lead": 0.6769823534533823,
+          "contrib_sub": 0.2093862673083468,
+          "contrib_both_if_matching": 0.8866139824011383
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 2673.0,
+          "fraction": 0.0040921741952669784,
+          "mass_RMS": 2.8915441139473854,
+          "correction": 0.9965301500350001,
+          "systematic": 0.0016430041773864978,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.37462588668509195,
+          "contrib_sub": 0.15046221701058168,
+          "contrib_both_if_matching": 0.5252644173417537
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 5047.0,
+          "fraction": 0.0077266005101056644,
+          "mass_RMS": 2.5083109132928723,
+          "correction": 0.99113227066,
+          "systematic": 0.0012949984618668697,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.5414877146080097,
+          "contrib_sub": 0.4969956531088974,
+          "contrib_both_if_matching": 1.0388188508023248
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 2794.0,
+          "fraction": 0.004277416648550669,
+          "mass_RMS": 3.026086757878492,
+          "correction": 0.9897519732124999,
+          "systematic": 0.001454976813610953,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.2547410163505048,
+          "contrib_sub": 0.18903650208741582,
+          "contrib_both_if_matching": 0.4439353452913315
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 981.0,
+          "fraction": 0.0015018417080272751,
+          "mass_RMS": 2.983705500995478,
+          "correction": 0.9973981535875001,
+          "systematic": 0.001792097507012702,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.12912655580763158,
+          "contrib_sub": 0.06827144866740605,
+          "contrib_both_if_matching": 0.19747800587524597
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 14846.0,
+          "fraction": 0.022728177367352626,
+          "mass_RMS": 2.1366182596324803,
+          "correction": 0.9973546032362501,
+          "systematic": 0.0013855407958516253,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 3.8107815589237375,
+          "contrib_sub": 0.6942359686879548,
+          "contrib_both_if_matching": 4.50583104264142
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 9113.0,
+          "fraction": 0.013951359312184055,
+          "mass_RMS": 2.3280652313971806,
+          "correction": 0.9948637233762502,
+          "systematic": 0.001686033389454833,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 1.9702872652494061,
+          "contrib_sub": 0.8635975447299531,
+          "contrib_both_if_matching": 2.8348967851775915
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 21408.0,
+          "fraction": 0.03277413586691937,
+          "mass_RMS": 2.2685218953414186,
+          "correction": 0.9884899012520001,
+          "systematic": 0.00116498281489541,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 2.808071642469722,
+          "contrib_sub": 2.036846406791835,
+          "contrib_both_if_matching": 4.8462929657480975
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 3812.0,
+          "fraction": 0.005835902743119238,
+          "mass_RMS": 2.263142077650697,
+          "correction": 0.9871132836925,
+          "systematic": 0.001324940393851337,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 0.6213903132747567,
+          "contrib_sub": 0.3644159599806612,
+          "contrib_both_if_matching": 0.9861105246760352
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 3928.0,
+          "fraction": 0.006013490549573024,
+          "mass_RMS": 2.3447561729567434,
+          "correction": 0.9947390792675002,
+          "systematic": 0.00166201731297555,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 0.8372103201892201,
+          "contrib_sub": 0.3498196808189008,
+          "contrib_both_if_matching": 1.1874399244070335
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 11321.0,
+          "fraction": 0.017331651352269908,
+          "mass_RMS": 2.4545078318732716,
+          "correction": 0.9960195597100002,
+          "systematic": 0.001847626599224883,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 2.201985302426665,
+          "contrib_sub": 1.2684518447482511,
+          "contrib_both_if_matching": 3.4719235360775733
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 17058.0,
+          "fraction": 0.026114593124902403,
+          "mass_RMS": 2.6546976248743164,
+          "correction": 0.99463245599375,
+          "systematic": 0.0020076932451666973,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 2.8363280332387184,
+          "contrib_sub": 2.0208459724445254,
+          "contrib_both_if_matching": 4.859542060127019
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 10287.0,
+          "fraction": 0.015748670387845647,
+          "mass_RMS": 2.41437559350217,
+          "correction": 0.9960195597100002,
+          "systematic": 0.001847626599224883,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.002345,
+          "contrib_lead": 1.1912340911934551,
+          "contrib_sub": 2.0679381494992226,
+          "contrib_both_if_matching": 3.260568144794948
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 15745.0,
+          "fraction": 0.024104482867369464,
+          "mass_RMS": 2.7297258890956324,
+          "correction": 0.99463245599375,
+          "systematic": 0.0020076932451666973,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.002345,
+          "contrib_lead": 1.7641674841116264,
+          "contrib_sub": 2.476070793491109,
+          "contrib_both_if_matching": 4.24230555274754
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 10288.0,
+          "fraction": 0.015750201317211627,
+          "mass_RMS": 2.723430789174161,
+          "correction": 1.0023163398062502,
+          "systematic": 0.0023450000000000415,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.002345,
+          "contrib_lead": 1.625386841197784,
+          "contrib_sub": 1.625386841197784,
+          "contrib_both_if_matching": 3.252678332519769
+        }
+      ]
+    },
+    "ptL1_r9L0_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 19855.0,
+          "fraction": 0.030396602561551016,
+          "mass_RMS": 2.072580105192947,
+          "correction": 0.9958924127075002,
+          "systematic": 0.0016084794032547034,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 5.416337414599395,
+          "contrib_sub": 2.0159881816794707,
+          "contrib_both_if_matching": 7.434687958298152
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 30520.0,
+          "fraction": 0.046723964249737446,
+          "mass_RMS": 2.3380080114234683,
+          "correction": 0.9935802394612502,
+          "systematic": 0.002189237897464169,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 6.542609639344579,
+          "contrib_sub": 5.673957835239833,
+          "contrib_both_if_matching": 12.223216294557977
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 26433.0,
+          "fraction": 0.04046705593097346,
+          "mass_RMS": 2.2607422204909455,
+          "correction": 0.991669996814,
+          "systematic": 0.0015729752857502888,
+          "syst_lead": 0.0013505000000000001,
+          "syst_sub": 0.0017955,
+          "contrib_lead": 3.4911009260962507,
+          "contrib_sub": 4.640929454189386,
+          "contrib_both_if_matching": 8.135163110568893
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 13787.0,
+          "fraction": 0.021106923168778838,
+          "mass_RMS": 2.2899705438570854,
+          "correction": 0.9902889505037499,
+          "systematic": 0.0017329980502538422,
+          "syst_lead": 0.0016705000000000001,
+          "syst_sub": 0.0017955,
+          "contrib_lead": 2.1950540025212844,
+          "contrib_sub": 2.3592316433330973,
+          "contrib_both_if_matching": 4.556255371820793
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 20257.0,
+          "fraction": 0.031012036166675343,
+          "mass_RMS": 2.389202203401764,
+          "correction": 0.9979392792162501,
+          "systematic": 0.002070212334195798,
+          "syst_lead": 0.002345,
+          "syst_sub": 0.0017955,
+          "contrib_lead": 4.158414578995114,
+          "contrib_sub": 3.1844168691997616,
+          "contrib_both_if_matching": 7.346562990639116
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 11427.0,
+          "fraction": 0.017493929865063887,
+          "mass_RMS": 2.6520230703789087,
+          "correction": 0.99472564276425,
+          "systematic": 0.0012601069340074655,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.000725,
+          "contrib_lead": 1.457935237933848,
+          "contrib_sub": 0.5888530763853485,
+          "contrib_both_if_matching": 2.0473167200868936
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 2033.0,
+          "fraction": 0.0031123794010391947,
+          "mass_RMS": 2.6894900272885613,
+          "correction": 0.992178357419,
+          "systematic": 0.0013684089600840554,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0009415000000000001,
+          "contrib_lead": 0.2522075615078649,
+          "contrib_sub": 0.13227739843697112,
+          "contrib_both_if_matching": 0.38460365872229113
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 9729.0,
+          "fraction": 0.014894411801628296,
+          "mass_RMS": 2.2882345941766977,
+          "correction": 0.9910057475449999,
+          "systematic": 0.001055983181635245,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.8104157069572264,
+          "contrib_sub": 1.1511956241906003,
+          "contrib_both_if_matching": 1.9621134307423977
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 4642.0,
+          "fraction": 0.007106574116883395,
+          "mass_RMS": 2.9142390171738004,
+          "correction": 0.9887049197175,
+          "systematic": 0.0016364213242496817,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.5554543394961138,
+          "contrib_sub": 0.33863888086242755,
+          "contrib_both_if_matching": 0.8944373565791519
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 1748.0,
+          "fraction": 0.0026760645317346348,
+          "mass_RMS": 2.784717171259458,
+          "correction": 0.9930425704474999,
+          "systematic": 0.0015174614165496259,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0012395,
+          "contrib_lead": 0.20227389795699152,
+          "contrib_sub": 0.1396565353342017,
+          "contrib_both_if_matching": 0.34205575371781455
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS0_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 43252.0,
+          "fraction": 0.06621575693740642,
+          "mass_RMS": 2.0870069075793256,
+          "correction": 0.99299921027825,
+          "systematic": 0.0011110161607952307,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.00042699999999999997,
+          "contrib_lead": 8.91084772749471,
+          "contrib_sub": 2.1198735062796485,
+          "contrib_both_if_matching": 11.032623496719575
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 6618.0,
+          "fraction": 0.010131690544061678,
+          "mass_RMS": 2.143425323318065,
+          "correction": 0.99051920795425,
+          "systematic": 0.0014114263759177348,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0010275,
+          "contrib_lead": 1.2926193389194092,
+          "contrib_sub": 0.7398613943084003,
+          "contrib_both_if_matching": 2.033144645914573
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 41194.0,
+          "fraction": 0.0630651043022177,
+          "mass_RMS": 2.0210384418308514,
+          "correction": 0.988363715449,
+          "systematic": 0.0009259985701990381,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 4.398712289807964,
+          "contrib_sub": 4.938021221749129,
+          "contrib_both_if_matching": 9.338887253633242
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 6455.0,
+          "fraction": 0.00988214905740679,
+          "mass_RMS": 2.1149613345566904,
+          "correction": 0.9860690216535001,
+          "systematic": 0.0015063613443750956,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 1.4665097248388692,
+          "contrib_sub": 0.7065770355194542,
+          "contrib_both_if_matching": 2.17380480770735
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 6977.0,
+          "fraction": 0.010681294186448826,
+          "mass_RMS": 2.1711892737149077,
+          "correction": 0.9903951081595,
+          "systematic": 0.001387416883321002,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0009795,
+          "contrib_lead": 1.3281097176498442,
+          "contrib_sub": 0.7246720132812825,
+          "contrib_both_if_matching": 2.0534320134667627
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S0": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 24543.0,
+          "fraction": 0.037573599429269536,
+          "mass_RMS": 2.3857305496532857,
+          "correction": 0.991669996814,
+          "systematic": 0.0015729752857502888,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0013505000000000001,
+          "contrib_lead": 3.8694163709445277,
+          "contrib_sub": 2.9107365689134173,
+          "contrib_both_if_matching": 6.7827648817035255
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 12454.0,
+          "fraction": 0.019066194323926283,
+          "mass_RMS": 2.4180388364405783,
+          "correction": 0.9902889505037499,
+          "systematic": 0.0017329980502538422,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0016705000000000001,
+          "contrib_lead": 1.911361873205557,
+          "contrib_sub": 1.778351244949826,
+          "contrib_both_if_matching": 3.691308916992475
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 17088.0,
+          "fraction": 0.026160521005881832,
+          "mass_RMS": 2.1827355736520806,
+          "correction": 0.9958924127075002,
+          "systematic": 0.0016084794032547034,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.002345,
+          "contrib_lead": 1.5643348579873129,
+          "contrib_sub": 4.202884469898079,
+          "contrib_both_if_matching": 5.7690524364757785
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 26383.0,
+          "fraction": 0.04039050946267441,
+          "mass_RMS": 2.533138153744363,
+          "correction": 0.9935802394612502,
+          "systematic": 0.002189237897464169,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.002345,
+          "contrib_lead": 4.178303568124045,
+          "contrib_sub": 4.817978912555791,
+          "contrib_both_if_matching": 9.001178672901572
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 18319.0,
+          "fraction": 0.028045095055404333,
+          "mass_RMS": 2.5136283925181466,
+          "correction": 0.9979392792162501,
+          "systematic": 0.002070212334195798,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.002345,
+          "contrib_lead": 2.6017179728986943,
+          "contrib_sub": 3.397489208645709,
+          "contrib_both_if_matching": 6.002255909598107
+        }
+      ]
+    },
+    "ptL1_r9L1_ptS1_r9S1": {
+      "bins": [
+        {
+          "eta_sub_bin": [
+            0.0,
+            1.0
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 43947.0,
+          "fraction": 0.06727975284676316,
+          "mass_RMS": 2.044748459937441,
+          "correction": 0.9915434050555,
+          "systematic": 0.0013338936507394372,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0008725,
+          "contrib_lead": 9.432136022957366,
+          "contrib_sub": 4.584481184646881,
+          "contrib_both_if_matching": 14.02073107980321
+        },
+        {
+          "eta_sub_bin": [
+            1.0,
+            1.5
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 22268.0,
+          "fraction": 0.034090735121662954,
+          "mass_RMS": 2.123230683661485,
+          "correction": 0.98924132894325,
+          "systematic": 0.001914492933029699,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0020334999999999997,
+          "contrib_lead": 4.432486792079757,
+          "contrib_sub": 5.019730646312962,
+          "contrib_both_if_matching": 9.456721880555843
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            0.0,
+            1.0
+          ],
+          "integral": 42225.0,
+          "fraction": 0.06464349247854402,
+          "mass_RMS": 2.0257058280710196,
+          "correction": 0.9915434050555,
+          "systematic": 0.0013338936507394372,
+          "syst_lead": 0.0008725,
+          "syst_sub": 0.0017955,
+          "contrib_lead": 4.488049554722891,
+          "contrib_sub": 9.233737073605234,
+          "contrib_both_if_matching": 13.725813967856222
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.0,
+            1.5
+          ],
+          "integral": 22335.0,
+          "fraction": 0.03419330738918368,
+          "mass_RMS": 2.0711241074930653,
+          "correction": 0.98924132894325,
+          "systematic": 0.001914492933029699,
+          "syst_lead": 0.0020334999999999997,
+          "syst_sub": 0.0017955,
+          "contrib_lead": 5.29135956191214,
+          "contrib_sub": 4.672338621903464,
+          "contrib_both_if_matching": 9.968446371475519
+        },
+        {
+          "eta_sub_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "eta_lead_bin": [
+            1.5,
+            2.0999999046325684
+          ],
+          "integral": 34024.0,
+          "fraction": 0.052088340748134565,
+          "mass_RMS": 2.1567760757571084,
+          "correction": 0.99358133301025,
+          "systematic": 0.001795500000000061,
+          "syst_lead": 0.0017955,
+          "syst_sub": 0.0017955,
+          "contrib_lead": 6.563505535268914,
+          "contrib_sub": 6.563505535268914,
+          "contrib_both_if_matching": 13.132900815060198
+        }
+      ]
+    },
+    "syst_per_cat": 0.0016008200723509696,
+    "syst_per_cat_and_bin": {
+      "R9_bin_0": {
+        "pT_bin_0": {
+          "eta_bin0": 6.615326470875431e-06,
+          "eta_bin1": 2.185420505698333e-06,
+          "eta_bin2": 1.915493997474139e-05,
+          "eta_bin0_calcPhotonSyst": 1.1127938445232934e-05,
+          "eta_bin1_calcPhotonSyst": 9.70864388877198e-06,
+          "eta_bin2_calcPhotonSyst": 2.000617968693041e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 9.438490138531366e-05,
+          "eta_bin1": 6.674028565524027e-05,
+          "eta_bin2": 0.00038005474880326885,
+          "eta_bin0_calcPhotonSyst": 7.914769610883375e-05,
+          "eta_bin1_calcPhotonSyst": 0.0001295696229936836,
+          "eta_bin2_calcPhotonSyst": 0.0004020324051645098
+        }
+      },
+      "R9_bin_1": {
+        "pT_bin_0": {
+          "eta_bin0": 2.375367517573121e-05,
+          "eta_bin1": 1.2393848806340098e-05,
+          "eta_bin2": 7.511257617000789e-05,
+          "eta_bin0_calcPhotonSyst": 2.1973538189085726e-05,
+          "eta_bin1_calcPhotonSyst": 1.074582604914516e-05,
+          "eta_bin2_calcPhotonSyst": 6.563562979222898e-05
+        },
+        "pT_bin_1": {
+          "eta_bin0": 0.00013806321828462728,
+          "eta_bin1": 0.00017148019292170455,
+          "eta_bin2": 0.0005635899594604393,
+          "eta_bin0_calcPhotonSyst": 0.00013274919908054633,
+          "eta_bin1_calcPhotonSyst": 0.0001259945301171613,
+          "eta_bin2_calcPhotonSyst": 0.0005562968519603332
+        }
+      }
+    },
+    "S": 115.21,
+    "B": 2679.16,
+    "S_eff": 4.750030990885244,
+    "eff_mass_res": 1.0467863354814906
+  }
+}

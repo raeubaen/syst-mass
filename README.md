@@ -1,34 +1,28 @@
 **Nuisances "bins"**:
 - HighR9CentralEBHighPt
 - HighR9CentralEBLowPt
-- HighR9CentralEBMedPt
 - HighR9EEHighPt
 - HighR9EELowPt
 - HighR9EEMedPt
 - HighR9OuterEBHighPt
 - HighR9OuterEBLowPt
-- HighR9OuterEBMedPt
 - LowR9CentralEBHighPt
 - LowR9CentralEBLowPt
-- LowR9CentralEBMedPt
 - LowR9EEHighPt
 - LowR9EELowPt
-- LowR9EEMedPt
 - LowR9OuterEBHighPt
 - LowR9OuterEBLowPt
-- LowR9OuterEBMedPt
 
 **Bins**:
 - **CentralEB:** \(|\eta| \in [0, 1]\)  
 - **OuterEB:** \(|\eta| \in [1, 1.5]\)  
-- **EE:** \(|\eta| \in [1, 1.5]\)
+- **EE:** \(|\eta| \in [1.5, 2.1]\)
 
 - **HighR9:** \(R9 > 0.96\)  
 - **LowR9:** \(R9 < 0.96\)
 
 - **Low \(p_T\):** \(p_T \in [25, 45]\)  
-- **Medium \(p_T\):** \(p_T \in [45, 80]\)  
-- **High \(p_T\):** \(p_T \in [80, +\infty]\)
+- **High \(p_T\):** \(p_T \in [45, 14000]\)  
 
 **To get the nuisances bins**:
 - start from a flashgg output file:
