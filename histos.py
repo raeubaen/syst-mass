@@ -38,7 +38,9 @@ with open(args.scale) as f:
     scale = json.load(f)
 
 corr_map = scale["corrections"]   # keys: i_ptL_i_r9L_i_ptS_i_r9S
-syst_map = scale["systematics"]
+
+## THIS SWITCHES THE CODE FROM SYST. TO CORRECTIONS -> Contributions HAVE TO BE ADDED LINEARLY AFTERWARDS!!
+syst_map = scale["corrections"]
 
 syst_per_bin_cat = {}
 for cat in categories:
@@ -178,7 +180,7 @@ for i_cat, cat in enumerate(categories):
                             corr_lead = corr_map[f"({i_ptL},{i_r9L},{iy-1})"]
                             corr_sub  = corr_map[f"({i_ptS},{i_r9S},{ix-1})"]
                             syst_lead = syst_map[f"({i_ptL},{i_r9L},{iy-1})"]   # relative uncertainty on pT
-                            syst_sub  = syst_map[f"({i_ptS},{i_r9S},{ix-1})"]
+                            syst_sub  = syst_map[f"({i_ptS},{i_r9S},{ix-1})"]-1
 
                             # Diphoton mass correction = product of photon corrections
                             correction = corr_lead * corr_sub
